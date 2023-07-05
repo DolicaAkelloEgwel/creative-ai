@@ -3,7 +3,7 @@
 Website:
 https://www.kalladomcdowell.com
 
-## Talks:
+## Talks
 
 Ultraculture Podcast:
 [[ai-alchemy]]
