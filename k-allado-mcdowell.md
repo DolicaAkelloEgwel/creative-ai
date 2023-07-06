@@ -3,6 +3,9 @@
 Website:
 https://www.kalladomcdowell.com
 
+Linktree:
+https://linktr.ee/elephantwords
+
 ## Talks
 
 Ultraculture Podcast:

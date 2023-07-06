@@ -1,2 +1,2 @@
 
-#github-user 
+#github-user #people 
