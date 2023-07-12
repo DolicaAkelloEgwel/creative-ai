@@ -14,4 +14,10 @@ Ultraculture Podcast:
 Serpentine Gallery:
 [[ai-ethics-christian-vs-buddhist]]
 
+Rune Soup:
+[[ai-and-personhood]]
+
+Gray Area:
+[[kam-gray-area]]
+
 #people
