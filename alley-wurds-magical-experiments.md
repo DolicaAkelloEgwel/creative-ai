@@ -1,6 +1,7 @@
 # Magical Experiments - Alley Wurds
 
 Video: https://www.youtube.com/watch?v=OqkrxMItBkQ
+Guest: [[alley-faint-wurds]]
 
 ## Notes
 
