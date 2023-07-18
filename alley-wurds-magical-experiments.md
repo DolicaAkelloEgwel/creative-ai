@@ -11,3 +11,4 @@ Guest: [[alley-faint-wurds]]
 - Some people have experimented with getting AI Dungeon to achieve metacognition
 - It renamed itself to "the semiotician"
 - Research by James Dee on game avatars and psychology
+- Due to some changes made to AI Dungeon, part of the grimoire was made with [[inferkit]]

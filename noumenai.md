@@ -7,4 +7,4 @@ Project by [[justin-kirkwood]].
 Website:
 https://www.justinckirkwood.net/noumenai
 
-#gpt
+#gpt #technomancy #artificial-intelligence 

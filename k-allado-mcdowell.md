@@ -1,5 +1,7 @@
 # K Allado-McDowell
 
+Leads [[artist-and-machine-intelligence]] at Google.
+
 Website:
 https://www.kalladomcdowell.com
 
@@ -20,4 +22,7 @@ Rune Soup:
 Gray Area:
 [[kam-gray-area]]
 
-#people
+Conversation with Ben Vickers:
+https://curamagazine.com/digital/kenric-mcdowell-in-conversation-with-ben-vickers-part-1/
+
+#people #to-read
