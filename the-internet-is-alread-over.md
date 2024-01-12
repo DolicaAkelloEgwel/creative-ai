@@ -1,6 +1,6 @@
 # The Internet is Already Over
 
-An article by Sam Kriss.
+An article by [[sam-kriss]]
 
 >They’ll pretend that it’s normal to dance alone in silence for a front-facing camera, or that the intersection of art and technology is somehow an interesting place to be.
 
