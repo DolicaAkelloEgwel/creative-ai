@@ -1,8 +1,10 @@
 # CULTUS
 
-Exhibit by [[zach-blas]]. Comprised of four AI Gods. Some ideas also from John Dee, sigil magic, and Metatron's Cube.
+Exhibit by [[zach-blas]]. Comprised of four AI Gods. Some ideas also from John Dee, sigils, and Metatron's Cube.
 
-Partly inspired by [[way-of-the-future]] and [[erik-davis]]. Related to [[techgnosis]].
+Partly inspired by [[way-of-the-future]] and [[erik-davis]]. Related to [[technomancy]].
+
+Apparently brain juice was used. How did they get this out?
 
 Page on artist's website: https://zachblas.info/works/cultus/
 
@@ -21,5 +23,13 @@ https://medium.com/tech-art-talks/cultus-0fc200409fe1
 > The fourth and last deity is **Lacrimae**. To create a quantification language, the god feeds on human tears, which are extracted through emotion recognition software, as well as on the laborious work required to improve the AI systems.
 
 > Technically sophisticated, CULTUS is based on motion-capture, machine learning, and computer graphics. To create the texts, the AI models were trained on a dataset made up of sadomasochistic erotica, tech mogul TED talks, tech corporation mission statements, transhumanist philosophy, apocalyptic science fiction, and much more. The voices of the prophets were synthesized with the output trained on recordings of weeping, Gregorian chants, the voice of the controversial billionaire Peter Thiel, as well as of ASMR leather rubbing. The AI gods, for their part, seduce and want to be worshiped. With their hypnotic and disturbing forms, they seem to reveal all their voracity and desire to consume the humankind from a psycho-physical and emotional point of view.
+
+Desktop tour: https://aos.arebyte.com/contents/zach-blas-desktop-tour/
+Interview: https://aos.arebyte.com/contents/zach-blas-interview/
+
+Talking Heads:
+J. Sage Elwell: https://aos.arebyte.com/contents/cultus-j-sage-elwell/
+
+
 
 
