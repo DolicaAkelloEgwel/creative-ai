@@ -8,7 +8,7 @@ Notes:
 - Midjourney and DALL-E do not do enough to warn users about the potential of this happening
 - LLMs can often have the same issues, NYT even went as far as filing a lawsuit against OpenAI
 - generative AI can sometimes reproduce its training data, but with minor changes
-- it is hard to understand how inputs lead to outputs due to the "black box" nature of generative AI and even their makers don't fully understand what's going on beneath the hood ([[erik-davis]] said something along the lines of emergence just being the tech way of saying "WTF?")
+- it is hard to understand how inputs lead to outputs due to the "black box" nature of generative AI and even their makers don't fully understand what's going on beneath the hood [[emergence]]
 - Midjourney and DALL-E were likely trained on copyrighted materials
 - Midjourney actually banned someone's account multiple times for investigating this
 - Disney, Marvel, Nintendo, etc may decide to follow in the footsteps of NYT
@@ -27,4 +27,5 @@ Notes:
 ![[a-collection-of-side-by-side-images-show-stills-from-movies-and-games-and-near-identical-images-produced-by-midjourney.webp]]Star Wars-like images created by Midjourney even though Star Wars was never mentioned in the prompts:![[a-collection-of-prompts-and-generative-ai-created-images-which-look-like-star-wars-characters.webp]]Using the word "screecap" in prompts:
 ![[a-grid-of-six-images-created-by-midjourney-showing-famous-pop-culture-characters.webp]]DALL-E patch:
 ![[two-screenshots-show-a-dall-e-prompt-that-produced-images-of-c-3po-and-a-prompt-some-time-later-showing-dall-e-not-generating-i.webp]]
+
 #dall-e #midjourney #generative-ai
