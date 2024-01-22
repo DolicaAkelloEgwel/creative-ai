@@ -2,4 +2,4 @@
 
 A conference that takes place in Oxford.
 
-#conference
+#events 
