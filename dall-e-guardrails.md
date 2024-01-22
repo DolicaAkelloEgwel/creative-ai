@@ -29,3 +29,5 @@ Patriotic superhero prompt:
 Bing warning about using the image elsewhere:
 ![[7fd9ec3d-22cb-4761-8303-0094c6578857_2388x1668.webp]]
 That's rich...
+
+Also he has a 10-pack.
