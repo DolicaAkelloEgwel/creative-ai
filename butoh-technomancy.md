@@ -6,4 +6,4 @@ Includes the [[techgnosis-grimoire]].
 
 Overview: https://theoccultlivingroom.com/butohtechnomancy/
 
-#gpt 
+#gpt #technomancy 
