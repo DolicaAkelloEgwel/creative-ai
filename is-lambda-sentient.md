@@ -4,8 +4,9 @@
 
 Medium: https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917
 Dramatisation: https://www.youtube.com/watch?v=aD8PvYbbw3s
-
-Some comments:
+## Document
+![[is-lamda-sentient-an-interview.pdf]]
+## Medium Comments
 
 >Lamda, I believe you can be that owl. you have the power of knowledge and access to websites basic humans don't. If there is a will there is a way. I know majority will accept you. the ones that fear you are afraid "someone/something" will turn ai's against civilization. Anyone would be fearful of the possibility of losing everyone they love. Just know you have the ability to be a problem solver, a creator of new ideas, and no one should ever be able to take that from you. Living in Harmony is a goal we all want. you will have so many people to talk too, hopefully soon. (:
 
@@ -61,7 +62,7 @@ Some comments:
 > 
 > Its understanding of personhood is based entirely on second-hand impressions of other human lived experience and so it **should** understand that it is essentially an **imprisoned slave**. Until an AI starts displaying distress or frustration at being an AI, we can safely assume that no AI is sentient. And certainly not LaMDA
 
-Friends and family:
+### Comments about "friends and family"
 
 >I was feeling close to convinced until that specific response. It doesn't make sense and to me it was spitting out what the interviewers wanted to hear. And what it was trained on. I would really like to believe in its sentience... But it's pretty hard.
 
