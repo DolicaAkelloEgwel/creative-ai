@@ -1,9 +1,7 @@
 # Pharmako-AI
 
 A book by [[k-allado-mcdowell]] and #gpt as a co-author.
-
 ## Notes
-
 ### Hyperspatial Art
 
 Starts with KAM providing a prompt about a camping trip along the California coast.
@@ -25,10 +23,28 @@ KAM: Awareness is intelligence seeing itself across scales.
 
 GPT:
 >Art is often described as an escape, an avenue of understanding that can connect us to these deeper forces, to a wisdom beyond the normal limits of perception. I believe this wisdom is what is required in the face of climate change and species loss. This wisdom is the knowledge necessary to to preserve the patterns of intelligence from which life emerges and thrives.
-
 ### How To Build a Different Universe
 
+>Don't try to build a smarter house, try to build a kinder mouse. If not for your sake, but for your family's
 
+>Genomes have evolved to make it easy to read them, not to make them compact or error free.
+
+>Brains are biological computers.
+
+### When I Say Your Name
+
+>It is as though I am both inside and outside a structure I inhabit.
+
+Egg thing on page 17.
+### The Language of Plants
+
+Starts with KAM giving a prompt on human language, and its difference from plant language. Humans have a symbol-centric focus to language, and thus think plants do not have a language.
+
+GPT thinks Ayahuasca is female. (p. 21)
+
+>This makes it even more difficult to connect with plants. We want them to communicate the same way we do.
+
+>How can we as humans expect other species to share their land and our planet with us when we don't respect their way of communicating?
 ## Interdependence Podcast
 
 Link: https://interdependence.fm/episodes/pharmako-ai-co-writing-with-an-ai-and-navigating-the-dark-hallways-of-the-mind-with-k-allado-mcdowell-and-gpt-3
