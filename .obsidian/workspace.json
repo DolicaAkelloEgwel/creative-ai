@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "d538b3194b6f6afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "836f68d2580162cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe8c8810f6324343",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9824f047018c5b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stochastic-parrot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3064df73d6190354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "is-lambda-sentient.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8d59a68772519eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "toilet-sunbaked-landscape.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dd8ebb9d6455a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "emergence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c045c374862cca8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dall-e-guardrails.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f7ed09d50373847",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0317ed3748c3e2e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a9daea8ff539aec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "glaze.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebb7418836b527ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "glaze.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3408881b8266013f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nightshade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6bd5231f0bfbcb96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "colorado-state-fair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4dfa742963c70a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stochastic-parrot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb8ef60648824cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "experiential-literature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 13
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e7fed13a9e54f4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f8d155fcc22aa4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1164064a29f2e85e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "13b3fac09820538d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#github-user",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b7c09e2d33fc383",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "7290b65098b5ed92",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d4a4bde1e3d8f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d8b02151318207",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "experiential-literature.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2427f4692c86ba14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "experiential-literature.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9dba968e7e32815a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b1a5e92992c568a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "experiential-literature.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb8ef60648824cc8",
+  "lastOpenFiles": [
+    "stochastic-parrot.md",
+    "experiential-literature.md",
+    "experiential-literature.pdf",
+    "3442188.3445922.cleaned.pdf",
+    "pharmako-ai.md",
+    "dall-e-guardrails.md",
+    "pope-drip.md",
+    "Untitled.md",
+    "ghosts.md",
+    "chinese-room.md",
+    "zarya-of-the-dawn.md",
+    "is-lambda-sentient.md",
+    "is-lamda-sentient-an-interview.pdf",
+    "zarya-of-the-dawn.pdf",
+    "steam-ai-art-ban.md",
+    "colorado-state-fair.md",
+    "sincarnate_AI_win.jpg",
+    "nightshade.md",
+    "art_contest_winner-800x450.jpg",
+    "glaze.md",
+    "temperature.md",
+    "ai-and-torture.md",
+    "toilet-sunbaked-landscape.md",
+    "hallucination.md",
+    "chatgpt-lorem-ipsum.md",
+    "generative-ai-and-plagiarism.md",
+    "7fd9ec3d-22cb-4761-8303-0094c6578857_2388x1668.webp",
+    "9277d9c6-acb4-451e-b766-f0577e21de8b_2388x1668.webp",
+    "9b83e7a6-18a0-44e4-b052-b052e3d89b1a_2388x1668.webp",
+    "e1355473-8dcc-48c3-a683-b8a4fe1e8391_1024x1366.webp",
+    "ross-goodwin.md",
+    "justin-kirkwood.md",
+    "adventures-in-narrated-reality.md",
+    "celebrity-faces.md",
+    "ai-gaslighting.md",
+    "sam-kriss.md",
+    "1 YPGAdtub6QK8qApzowaw5Q.png",
+    "SEI_149760389.webp",
+    "GCrzoVTXkAAVhaZ.jpg",
+    "two-screenshots-show-a-dall-e-prompt-that-produced-images-of-c-3po-and-a-prompt-some-time-later-showing-dall-e-not-generating-i.webp",
+    "cultus-booklet.cleaned.pdf",
+    "the-right-kind-of-ai",
+    "ai-alchemy"
+  ]
+}
