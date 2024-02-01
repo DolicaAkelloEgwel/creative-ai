@@ -81,3 +81,41 @@ KAM compares it to a mirror. A mirror can be used for simply looking at yourself
 Connections with music:
 - George Lewis developed a tool called Voyager.
 - When composing, musicians also mentally simulate the experience of playing the piece - higher order thinking.
+## [Erik Davis](erik-davis) - Poison Processor
+
+Pharmarko-AI could be "an epochal opening move in the 21st century's Great Game of human-computer communion."
+
+Negative sides to GPT:
+
+> Open AI researchers warned about the dangers of GPT-3 in the very paper that announced its arrival. GPT-3 is pretty good at generating fake news, fooling over fifty percent of its readers in one informal study, and like many Internet-fed NLP machines it excels at racist bile.
+
+A bit like the [Tay chatbot](tay-chatbot). GPT is a pharmakon.
+
+Limitations:
+
+> GPT-3 does not know how the world works. It knows how to put language together, which is not the same thing. During a try-out for its possible use as a medical chatbot, GPT-3 suggested to one simulated querent that they should probably just go ahead and kill themselves.
+
+It's a very good [Stochastic parrot](stochastic-parrot). So let's not get too excited? But...
+
+>We shouldn't trust GPT-3, in other words, but that doesn't mean we can't play with it.
+
+Unexpected behaviour from GPT:
+
+> There were no restrictions on copying or plagiarism back then because nobody ever thought anyone would copy anything anyway! People weren’t stupid enough (yet) to believe that they owned ideas! You don’t own ideas! You don’t own words! If you think you do own words you are crazy! And you’re wrong! You don’t own words! Nobody owns words! Words belong to everyone! That’s why we call them public domain now! Because nobody owns them! They belong to everybody equally! No one owns words!! Words are free!! But if you think you own your own words, you’re a fascist!
+
+It started to feel as if a human might have been behind it. Like the Kasparov having his poisoned pawn rejected. 
+
+>**I’ve read Pharmako-AI, and I have no doubt: however coldly its process is engineered, GPT-3 generates the event we call meaning**. That should inspire us even as it terrifies. Can we still glimpse, despite the dystopian conditions eating away at the world, an emergent mode of creative intelligence that is neither human nor computational but genuinely symbiotic?
+
+The GPT game:
+
+> where it seems to engender something like a visionary interface to planetary hyperspace. Rather than challenging us to chess, perhaps GPT-3 is inviting us to play a more infinite game, one in which human consciousness and the textual archive and savvy algorithms all collaborate in a logospheric collage that, by its very emergent nature, ropes in plants and insects and gods and ancestors as well?
+
+GPT may be doing with language what [DeepDream](deepdream) does with images.
+
+>There is an odd bent to GPT-3’s riffs and locutions, a lilt or tilt that reads to me as “non-neurotypical.” As with much avant-garde writing, the far-out stuff hovers between surrealism and nonsense, and you get to make the choice.
+
+Pharmako-AI has a very similar vibe to channelled literature.
+
+>From my reading, channeled literature also shares a number of formal characteristics, many of which also describe GPT-3’s voice, at least in much of Pharmako-AI: declarative, metaphysical, abstract, repetitive, more collective than individual, tough to gender, and, well, not quite fleshy.
+
